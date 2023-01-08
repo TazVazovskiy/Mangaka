@@ -1,0 +1,143 @@
+html,body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+   
+.e3_3 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.e5_10 { 
+	background-color:greenyellow;
+	width:1440px;
+	height:75px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e5_11 { 
+	color:rgba(0, 0, 0, 1);
+	width:441px;
+	height:33px;
+	position:absolute;
+	left:510px;
+	top:19px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e5_12 { 
+	background-image: url(https://mangalib.me/uploads/users/placeholder.png);
+	background-size: 100%;
+	width:64px;
+	height:52px;
+	position:absolute;
+	left:1355px;
+	top:7px;
+}
+.e5_13 { 
+	background-image: url(https://i.yapx.ru/VTVdi.png);
+	background-size: 100%;
+	width:714px;
+	height:603px;
+	position:absolute;
+	left:510px;
+	top:74px;
+}
+.e5_14 { 
+	background-color:greenyellow;
+	width:1440px;
+	height:130px;
+	position:absolute;
+	left:0px;
+	top:945px;
+}
+.e5_15 { 
+	background-image:url(https://mangalib.me/uploads/cover/haikyu/cover/OA288hEOboY9_250x350.jpg);
+	background-size: 100%;
+	width:213px;
+	height:255px;
+	position:absolute;
+	left:266px;
+	top:74px;
+}
+.e5_16 { 
+	background-color:greenyellow;
+	width:213px;
+	height:31px;
+	position:absolute;
+	left:266px;
+	top:344px;
+}
+.e5_17 { 
+	color:rgba(0, 0, 0, 1);
+	width:172px;
+	height:61px;
+	position:absolute;
+	left:298px;
+	top:168px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e5_18 { 
+	color:rgba(0, 0, 0, 1);
+	width:339px;
+	height:224px;
+	position:absolute;
+	left:720px;
+	top:220px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e5_19 { 
+	color:rgba(0, 0, 0, 1);
+	width:135px;
+	height:22px;
+	position:absolute;
+	left:323px;
+	top:341px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e12_32 { 
+	background-color:greenyellow;
+	width:211px;
+	height:29px;
+	position:absolute;
+	left:268px;
+	top:384px;
+}
+.e12_33 { 
+	color:rgba(0, 0, 0, 1);
+	width:301px;
+	height:20px;
+	position:absolute;
+	left:337px;
+	top:384px;
+	font-family:Inter;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+dd,dt {
+	font-family:Century Gothic;
+	font-size: 20px;
+}
+.icon {
+	width: 300px;
+	height: 80px;
+    background-image: url(https://i.yapx.ru/VTVaR.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,164 @@
+html,body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+   
+}
+body {
+    background-color: whitesmoke;
+    background-size: 100%;
+}
+.e12_21 { 
+	background-color:whitesmoke;
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+.e12_44 { 
+	background-color:#fed9a1c4;
+	width:828px;
+	height:364px;
+	position:absolute;
+	left:448px;
+	top:544px;
+}
+.e12_27 { 
+	background-color:greenyellow;
+	width:1440px;
+	height:90px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e12_28 { 
+	color:rgba(0, 0, 0, 1);
+	width:441px;
+	height:33px;
+	position:absolute;
+	left:510px;
+	top:19px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e12_29 { 
+	background-image:url(https://mangalib.me/uploads/users/placeholder.png);
+	background-size: 100%;
+	width:64px;
+	height:52px;
+	position:absolute;
+	left:1355px;
+	top:7px;
+	
+}
+.e12_30 { 
+	background-color:greenyellow;
+	width:1440px;
+	height:110px;
+	position:absolute;
+	left:0px;
+	top:945px;
+}
+.e12_36 { 
+	background-color:rgba(144.49999898672104, 142.09167301654816, 142.09167301654816, 1);
+	width:926px;
+	height:208px;
+	position:absolute;
+	left:403px;
+	top:151px;
+	border-top-left-radius:63px;
+	border-top-right-radius:63px;
+	border-bottom-left-radius:63px;
+	border-bottom-right-radius:63px;
+}
+.e12_37 { 
+	color:rgba(0, 0, 0, 1);
+	width:300px;
+	height:230px;
+	position:absolute;
+	left:40px;
+	top:132px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+	background-image: url(https://mangalib.me/uploads/users/placeholder.png);
+	background-size: 100%;
+}
+.e12_39 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:356px;
+	height:368px;
+	position:absolute;
+	left:31px;
+	top:540px;
+}
+.e12_42 { 
+	color:rgba(0, 0, 0, 1);
+	width:252px;
+	height:48px;
+	position:absolute;
+	left:69px;
+	top:550px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+
+.e12_43 { 
+	width:137px;
+	height:0px;
+	position:absolute;
+	left:319px;
+	top:712px;
+}
+.e12_143 { 
+	color:rgba(255, 255, 255, 1);
+	width:228px;
+	height:49px;
+	position:absolute;
+	left:458px;
+	top:173px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e12_144 { 
+	color:rgba(255, 255, 255, 1);
+	width:185px;
+	height:39px;
+	position:absolute;
+	left:454px;
+	top:228px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e12_158 { 
+	color:rgba(0, 0, 0, 1);
+	width:203px;
+	height:32px;
+	position:absolute;
+	left:1104px;
+	top:16px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.icon {
+	width: 300px;
+	height: 80px;
+    background-image: url(https://i.yapx.ru/VTVaR.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+}
+dd,dt {
+	font-family:Century Gothic;
+	font-size: 20px;
+}

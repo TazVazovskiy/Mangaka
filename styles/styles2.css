@@ -1,0 +1,260 @@
+html,body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+   
+}
+body {
+    background-color:whitesmoke;
+    background-size: 100%;
+    
+}
+.e5_20 { 
+	background-color:greenyellow;
+	width:1440px;
+	height:100px;
+
+	position:absolute;
+}
+.e6_26 { 
+	background-color:rgba(21.25000063329935, 19.833334051072598, 19.833334051072598, 1);
+	width:1440px;
+	height:879px;
+	position:absolute;
+	left:0px;
+	top:66px;
+}
+.e5_21 { 
+	background-color:#85DCB8;
+	width:1440px;
+	height:10px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	opacity: 0.1;
+}
+.e5_22 { 
+	color:rgba(0, 0, 0, 1);
+	width:441px;
+	height:33px;
+	position:absolute;
+	left:510px;
+	top:19px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e5_23 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:64px;
+	height:52px;
+	position:absolute;
+	left:1355px;
+	top:7px;
+}
+.e5_24 { 
+	background-color:#FED9A1;
+	width:1440px;
+	height:79px;
+	position:absolute;
+	left:0px;
+	top:945px;
+}
+.e5_25 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:986px;
+	height:879px;
+	position:absolute;
+	left:264px;
+	top:66px;
+	opacity: 1;
+}
+.e6_33 { 
+	width:74px;
+	height:40px;
+	position:absolute;
+	left:16px;
+	top:13px;
+}
+.e6_27 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:74px;
+	height:10px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e6_28 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:74px;
+	height:10px;
+	position:absolute;
+	left:0px;
+	top:15px;
+}
+.e6_29 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:74px;
+	height:10px;
+	position:absolute;
+	left:0px;
+	top:30px;
+}
+.e6_30 { 
+	color:rgba(0, 0, 0, 1);
+	width:153px;
+	height:32px;
+	position:absolute;
+	left:114px;
+	top:16px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e6_31 { 
+	color:rgba(0, 0, 0, 1);
+	width:175px;
+	height:25px;
+	position:absolute;
+	left:281px;
+	top:16px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+#e6_32 { 
+	color:rgba(0, 0, 0, 1);
+	width:641px;
+	height:381px;
+	position:absolute;
+	
+	left:200px;
+	top:100px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+	
+}
+#e6_33 { 
+	color:rgba(0, 0, 0, 1);
+	width:641px;
+	height:381px;
+
+	position:absolute;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+#e6_34 { 
+	color:rgba(0, 0, 0, 1);
+	width:641px;
+	height:381px;
+
+	position:absolute;
+
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+#e6_35 { 
+	color:rgba(0, 0, 0, 1);
+	width:641px;
+	height:381px;
+
+	position:absolute;
+
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+#e6_36 { 
+	color:rgba(0, 0, 0, 1);
+	width:641px;
+	height:381px;
+
+	position:absolute;
+
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+#e6_37 { 
+	color:rgba(0, 0, 0, 1);
+	width:641px;
+	height:381px;
+
+	position:absolute;
+
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e6_34 { 
+	color:rgba(0, 0, 0, 1);
+	width:595px;
+	height:30px;
+	position:absolute;
+	left:639px;
+	top:970px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e7_2 { 
+	color:rgba(0, 0, 0, 1);
+	width:51px;
+	height:27px;
+	position:absolute;
+	left:1368px;
+	top:15px;
+	font-family:Inter;
+	text-align:left;
+	font-size:15px;
+	letter-spacing:0;
+}
+
+
+.hidden {
+	display: none;
+}
+.show {
+	display: block;
+}
+.footer {
+	position: relative;
+	top:1500px;
+	width: 1440px;
+	height: 100px;
+	background-color: greenyellow;
+}
+dd,dt {
+	font-family:Century Gothic;
+	font-size: 20px;
+}
+.auth {
+    width: 95px;
+    height: 95px;
+	margin-left: 1340x;
+    left:2440px;
+    background-image: url(https://mangalib.me/uploads/users/placeholder.png);
+    background-repeat: no-repeat;
+
+}
+.icon {
+	width: 300px;
+	height: 80px;
+    background-image: url(https://i.yapx.ru/VTVaR.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,114 @@
+html,body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+   
+}
+body {
+	background-color: whitesmoke;
+    background-size: 100%;
+}
+.e12_159 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+	opacity: 0.7;
+}
+.e12_161 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:1168px;
+	height:715px;
+	position:absolute;
+	left:161px;
+	top:97px;
+	border-top-left-radius:75px;
+	border-top-right-radius:75px;
+	border-bottom-left-radius:75px;
+	border-bottom-right-radius:75px;
+}
+.e12_162 { 
+	background-color:rgba(171.06250405311584, 167.4987056851387, 167.4987056851387, 1);
+	width:1013px;
+	height:468px;
+	position:absolute;
+	left:244px;
+	top:145px;
+	border-top-left-radius:56px;
+	border-top-right-radius:56px;
+	border-bottom-left-radius:56px;
+	border-bottom-right-radius:56px;
+}
+.e12_163 { 
+	color:rgba(0, 0, 0, 1);
+	width:422px;
+	height:65px;
+	position:absolute;
+	left:303px;
+	top:681px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e12_164 { 
+	background-color:rgba(171.06250405311584, 167.4987056851387, 167.4987056851387, 1);
+	width:256px;
+	height:61px;
+	position:absolute;
+	left:736px;
+	top:668px;
+	border-top-left-radius:11px;
+	border-top-right-radius:11px;
+	border-bottom-left-radius:11px;
+	border-bottom-right-radius:11px;
+}
+.e12_165 { 
+	color:rgba(0, 0, 0, 1);
+	width:57px;
+	height:33px;
+	position:absolute;
+	left:835px;
+	top:681px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e12_166 { 
+	color:rgba(0, 0, 0, 1);
+	width:31px;
+	height:31px;
+	position:absolute;
+	left:1001px;
+	top:681px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}
+.e36_2 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:383px;
+	height:98px;
+	position:absolute;
+	left:481px;
+	top:862px;
+	border-top-left-radius:18px;
+	border-top-right-radius:18px;
+	border-bottom-left-radius:18px;
+	border-bottom-right-radius:18px;
+}
+.e36_3 { 
+	color:rgba(0, 0, 0, 1);
+	width:164px;
+	height:35px;
+	position:absolute;
+	left:592px;
+	top:893px;
+	font-family:Inter;
+	text-align:left;
+	font-size:30px;
+	letter-spacing:0;
+}

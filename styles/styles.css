@@ -1,0 +1,94 @@
+
+
+html,body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+   
+}
+body {
+    background-color: whitesmoke;
+    background-size: 100%;
+    flex-flow: column;
+    
+}
+.cont {
+    width: 1440px;
+    height: 100px;
+    background-color: greenyellow;
+    display: flex;
+    justify-content: left;
+   
+}
+.icon {
+    flex: 1 1 auto;
+    margin: 0 5px;
+    background-image: url(https://i.yapx.ru/VTVaR.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+}
+.search {
+    width: 300px;
+    height: 30px;
+    top: 40px;
+    left:450px;
+    position: absolute;
+    background-color: #1A53B7;
+
+}
+.auth {
+    width: 95px;
+    height: 95px;
+    top: 5px;
+    left:1540px;
+    order: 100;
+    background-image: url(https://mangalib.me/uploads/users/placeholder.png);
+    background-repeat: no-repeat;
+
+}
+.cont1 {
+    margin-top: 20px;
+    width: 1440px;
+    height: 900px;
+    background-color: whitesmoke;
+
+    display: flex;
+    justify-content: left;
+}
+.cont2 {
+    margin-top: 20px;
+    width: 1440px;
+    height: 2px;
+    background-color: silver;
+    
+}
+.cont3 {
+    margin-top: 20px;
+    width: 1440px;
+    height: 100px;
+    background-color: greenyellow;
+
+}
+.update {
+    width: 250px;
+    height: 337px;
+    background-image: url(https://mangalib.me/uploads/cover/haikyu/cover/OA288hEOboY9_250x350.jpg);
+    background-size: 100%;
+    flex: 1 1 auto;
+    margin: 10px 5px;
+
+}
+.update1 {
+    width: 250px;
+    height: 337px;
+    background-image: url(https://mangalib.me/uploads/cover/medical-return/cover/wSTTH7VVOocE_250x350.jpg);
+    background-size: 100%;
+    flex: 1 1 auto;
+    margin: 10px 5px;
+
+}
+dd,dt {
+	font-family:Century Gothic;
+	font-size: 20px;
+}
